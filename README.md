@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning TDD in Python, React, Websockets
 - 🏢 I'm currently looking for full-stack django based dev roles
 - 👯 I’m looking to collaborate on anything civic tech related
-- 🤔 I’m looking for help with geocoding intersection with accuracy in python
+- 🤔 I’m looking for help with geocoding intersections (given X Street at Y Avenue output lat/lng) with accuracy in python
 - 📫 How to reach me: email adriansharpe148 at gmail.com
 - 😄 Pronouns: he/him/his
